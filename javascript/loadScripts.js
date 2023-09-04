@@ -1,6 +1,7 @@
 let scripts = [
     './javascript/clue.js',
-    './javascript/buttonChecker.js'
+    './javascript/buttonChecker.js',
+	'./javascript/flicker.js'
 ];
 
 
