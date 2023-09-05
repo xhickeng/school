@@ -5,4 +5,4 @@
 <p> 2. Extract the file </p>
 <p> 3. Double Click main.html </p>
 
-![IMG-9248-min](https://github.com/xhickeng/school/assets/88741704/15aa982d-59a4-4773-8d46-b617f17ceea4)
+<p>Also for the image go to the images folder</p>
